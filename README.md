@@ -3,6 +3,8 @@
 ## Overview
 This repository provides a C# implementation of a basic mixed alphabet cipher. This cipher is a simple substitution cipher where each letter of the plaintext is replaced by a different letter of the alphabet. The substitution is determined by a key, which is a permutation of the alphabet. 
 
+![Encrypto simple demonstration](https://github.com/grcheulishvili/Encrypto/blob/main/Encrypto_encrypt.png)
+
 Key is hardcoded in the source code. Hence:
 
 ## Security Considerations
